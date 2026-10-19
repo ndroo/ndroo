@@ -1,10 +1,12 @@
 ### Andrew McGrath
 
-Builder in Toronto. I'm working on **JustListings**, an open distribution and collaboration network for property listings, and **ListingAI**, tools for real-estate agents. Most of what's here is the stuff I build around them, or for my own houses.
+Founder of [MappedBy](https://mappedby.com), where we build software to make real estate work better: **[ListingAI](https://listingai.com)** markets and publishes a listing, **[JustListings](https://justlistings.com)** shows it to the world, and **[PropTea](https://proptea.com)** is where agents and buyers work through it together. Before that I co-founded Checkout 51. Toronto, with a cottage in Haliburton and a beagle called Elvis.
+
+Most of what's on this profile is the stuff I build around those products, or for my own houses.
 
 **Things I run for real**
 
-- [cameras](https://github.com/ndroo/cameras) · a self-hosted viewer, recordings and SMS alerts for Tapo cameras, plus a boiler-room monitor that reads the boiler's LCD with a camera.
+- [cameras](https://github.com/ndroo/cameras) · a self-hosted viewer, recordings and SMS alerts for Tapo cameras, plus a boiler-room monitor that reads the boiler's LCD through a camera.
 - [180beatrice](https://github.com/ndroo/180beatrice) · the tenant site for a rental house: parking booking, showings, a tenant guide and the heating dashboard.
 - [freeciv.andrewmcgrath.info](https://github.com/ndroo/freeciv.andrewmcgrath.info) · a Freeciv longturn server with 23-hour turns and email reminders.
 - [magic-phone](https://github.com/ndroo/magic-phone) · a rotary phone that answers with a low-latency AI operator (Asterisk + OpenAI Realtime).
@@ -17,4 +19,4 @@ Builder in Toronto. I'm working on **JustListings**, an open distribution and co
 
 Older repos are archived rather than deleted; they're where I learned things.
 
-[LinkedIn](https://www.linkedin.com/in/andrewjohnmcgrath/) · [andrewmcgrath.info](https://andrewmcgrath.info)
+[andrewmcgrath.info](https://andrewmcgrath.info) · [LinkedIn](https://www.linkedin.com/in/andrewjohnmcgrath/)
